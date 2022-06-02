@@ -17,7 +17,7 @@ Put daily work records on microbiota into this repository
 
 * [Statistical Analysis of Microbiome Data with R](https://link.springer.com/book/10.1007/978-981-13-1534-3)
 
-## Paper
+## Research article
 
 ### Longitudinal study
 
@@ -42,3 +42,7 @@ Put daily work records on microbiota into this repository
 * [Comprehensive benchmarking and ensemble approaches for metagenomic classifiers](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1299-7?gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlHQvfX8NY5nSog986R76_fs-HJvZaBpf9eTRRN7vy-UZyJwkfDFbbsaAtRvEALw_wcB)
 
 
+## pipeline
+
+* Humann2[Species-level functional profiling of metagenomes and metatranscriptomes](https://www.nature.com/articles/s41592-018-0176-y)
+  
