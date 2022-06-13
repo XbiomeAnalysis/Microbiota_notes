@@ -13,6 +13,12 @@ Put daily work records on microbiota into this repository
 * [Gut microbiota in human metabolic health and disease](https://www.nature.com/articles/s41579-020-0433-9)
 * [Gut microbiota and human NAFLD: disentangling microbial signatures from metabolic disorders](https://www.nature.com/articles/s41575-020-0269-9) 
 
+### Method
+
+* [Analysis of microbial compositions: a review of normalization and differential abundance analysis](https://www.nature.com/articles/s41522-020-00160-w)
+* [Microbiome differential abundance methods produce different results across 38 datasets](https://www.nature.com/articles/s41467-022-28034-z)
+
+
 ## Book
 
 * [Statistical Analysis of Microbiome Data with R](https://link.springer.com/book/10.1007/978-981-13-1534-3)
@@ -42,7 +48,7 @@ Put daily work records on microbiota into this repository
 * [Comprehensive benchmarking and ensemble approaches for metagenomic classifiers](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1299-7?gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlHQvfX8NY5nSog986R76_fs-HJvZaBpf9eTRRN7vy-UZyJwkfDFbbsaAtRvEALw_wcB)
 
 
-## pipeline
+## Pipeline
 
-* Humann2[Species-level functional profiling of metagenomes and metatranscriptomes](https://www.nature.com/articles/s41592-018-0176-y)
+* Humann2 [Species-level functional profiling of metagenomes and metatranscriptomes](https://www.nature.com/articles/s41592-018-0176-y)
   
