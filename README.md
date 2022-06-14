@@ -41,6 +41,7 @@ Put daily work records on microbiota into this repository
 ## Database
 
 * [Integrated Microbial Genomes and Microbiomes](https://img.jgi.doe.gov/)
+* [16S_rRNA_Microbiome_Datasets](https://figshare.com/articles/dataset/16S_rRNA_Microbiome_Datasets/14531724)
 
 
 
