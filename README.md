@@ -19,6 +19,7 @@ Put daily work records on microbiota into this repository
 * [Analysis of microbial compositions: a review of normalization and differential abundance analysis](https://www.nature.com/articles/s41522-020-00160-w)
 * [Microbiome differential abundance methods produce different results across 38 datasets](https://www.nature.com/articles/s41467-022-28034-z)
 * [Comparison study of differential abundance testing methods using two large Parkinson disease gut microbiome datasets derived from 16S amplicon sequencing](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04193-6)
+* [Assessment of statistical methods from single cell, bulk RNA-seq and metagenomics applied to microbiome data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02104-1)
 
 
 ## Book
