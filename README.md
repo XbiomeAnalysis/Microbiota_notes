@@ -38,6 +38,9 @@ Put daily work records on microbiota into this repository
 * [Characterization of microbiome and metabolite analyses in patients with metabolic associated fatty liver disease and type II diabetes mellitus](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-022-02526-w)
 * [Multiomics Analysis Reveals the Impact of Microbiota on Host Metabolism in Hepatic Steatosis](https://onlinelibrary.wiley.com/doi/10.1002/advs.202104373)
 
+### Obesity
+
+* [Obese Individuals with and without Type 2 Diabetes Show Different Gut Microbial Functional Capacity and Composition](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(19)30348-8)
 
 
 ## Database
