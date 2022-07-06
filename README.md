@@ -13,13 +13,13 @@ Put daily work records on microbiota into this repository
 * [Gut microbiota in human metabolic health and disease](https://www.nature.com/articles/s41579-020-0433-9)
 * [Gut microbiota and human NAFLD: disentangling microbial signatures from metabolic disorders](https://www.nature.com/articles/s41575-020-0269-9) 
 * [Microbiome datasets are compositional: And this is not optional](https://www.frontiersin.org/articles/10.3389/fmicb.2017.02224/full)
+* [Critical Assessment of Metagenome Interpretation: the second round of challenges](https://www.nature.com/articles/s41592-022-01431-4)
+* [Next steps after 15 stimulating years of human gut microbiome research](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.13970)
 
 ### Method
 
 * [Analysis of microbial compositions: a review of normalization and differential abundance analysis](https://www.nature.com/articles/s41522-020-00160-w)
 * [Microbiome differential abundance methods produce different results across 38 datasets](https://www.nature.com/articles/s41467-022-28034-z)
-* [Comparison study of differential abundance testing methods using two large Parkinson disease gut microbiome datasets derived from 16S amplicon sequencing](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04193-6)
-* [Assessment of statistical methods from single cell, bulk RNA-seq and metagenomics applied to microbiome data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02104-1)
 
 
 ## Book
@@ -38,9 +38,6 @@ Put daily work records on microbiota into this repository
 * [Characterization of microbiome and metabolite analyses in patients with metabolic associated fatty liver disease and type II diabetes mellitus](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-022-02526-w)
 * [Multiomics Analysis Reveals the Impact of Microbiota on Host Metabolism in Hepatic Steatosis](https://onlinelibrary.wiley.com/doi/10.1002/advs.202104373)
 
-### Obesity
-
-* [Obese Individuals with and without Type 2 Diabetes Show Different Gut Microbial Functional Capacity and Composition](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(19)30348-8)
 
 
 ## Database
