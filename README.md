@@ -15,12 +15,12 @@ Put daily work records on microbiota into this repository
 * [Microbiome datasets are compositional: And this is not optional](https://www.frontiersin.org/articles/10.3389/fmicb.2017.02224/full)
 * [Critical Assessment of Metagenome Interpretation: the second round of challenges](https://www.nature.com/articles/s41592-022-01431-4)
 * [Next steps after 15 stimulating years of human gut microbiome research](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.13970)
+* [Rethinking healthy eating in light of the gut microbiome](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(22)00222-0)
 
 ### Method
 
 * [Analysis of microbial compositions: a review of normalization and differential abundance analysis](https://www.nature.com/articles/s41522-020-00160-w)
 * [Microbiome differential abundance methods produce different results across 38 datasets](https://www.nature.com/articles/s41467-022-28034-z)
-
 
 ## Book
 
@@ -38,21 +38,15 @@ Put daily work records on microbiota into this repository
 * [Characterization of microbiome and metabolite analyses in patients with metabolic associated fatty liver disease and type II diabetes mellitus](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-022-02526-w)
 * [Multiomics Analysis Reveals the Impact of Microbiota on Host Metabolism in Hepatic Steatosis](https://onlinelibrary.wiley.com/doi/10.1002/advs.202104373)
 
-
-
 ## Database
 
 * [Integrated Microbial Genomes and Microbiomes](https://img.jgi.doe.gov/)
 * [16S_rRNA_Microbiome_Datasets](https://figshare.com/articles/dataset/16S_rRNA_Microbiome_Datasets/14531724)
 
-
-
 ## Benchmark
 
 * [Comprehensive benchmarking and ensemble approaches for metagenomic classifiers](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1299-7?gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlHQvfX8NY5nSog986R76_fs-HJvZaBpf9eTRRN7vy-UZyJwkfDFbbsaAtRvEALw_wcB)
 
-
 ## Pipeline
 
 * Humann2 [Species-level functional profiling of metagenomes and metatranscriptomes](https://www.nature.com/articles/s41592-018-0176-y)
-  
