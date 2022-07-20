@@ -19,7 +19,7 @@ Put daily work records on microbiota into this repository
 * [Ecosystem-specific microbiota and microbiome databases in the era of big data](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-022-00433-1)
 
 
-### Method
+## Method
 
 * [Analysis of microbial compositions: a review of normalization and differential abundance analysis](https://www.nature.com/articles/s41522-020-00160-w)
 * [Microbiome differential abundance methods produce different results across 38 datasets](https://www.nature.com/articles/s41467-022-28034-z)
