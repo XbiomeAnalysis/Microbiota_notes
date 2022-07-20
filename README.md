@@ -16,6 +16,8 @@ Put daily work records on microbiota into this repository
 * [Critical Assessment of Metagenome Interpretation: the second round of challenges](https://www.nature.com/articles/s41592-022-01431-4)
 * [Next steps after 15 stimulating years of human gut microbiome research](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.13970)
 * [Rethinking healthy eating in light of the gut microbiome](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(22)00222-0)
+* [https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-022-00433-1](Ecosystem-specific microbiota and microbiome databases in the era of big data)
+
 
 ### Method
 
@@ -38,10 +40,21 @@ Put daily work records on microbiota into this repository
 * [Characterization of microbiome and metabolite analyses in patients with metabolic associated fatty liver disease and type II diabetes mellitus](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-022-02526-w)
 * [Multiomics Analysis Reveals the Impact of Microbiota on Host Metabolism in Hepatic Steatosis](https://onlinelibrary.wiley.com/doi/10.1002/advs.202104373)
 
+
+### Mechanism
+
+* [Microbiota alterations in proline metabolism impact depression](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(22)00128-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1550413122001280%3Fshowall%3Dtrue)
+
+
 ## Database
 
 * [Integrated Microbial Genomes and Microbiomes](https://img.jgi.doe.gov/)
 * [16S_rRNA_Microbiome_Datasets](https://figshare.com/articles/dataset/16S_rRNA_Microbiome_Datasets/14531724)
+* [Earth Microbiome Project (EMP)](https://earthmicrobiome.org/)
+* [Human Oral Microbiome Database: Human oral environment (HOMD)](https://www.homd.org/)
+* [Integrative Human Microbiome Project: HMP](https://commonfund.nih.gov/hmp/databases)
+* [Unifed Human Gastrointestinal Genome (UHGG) collection: human gut](https://www.ebi.ac.uk/metagenomics/genome-catalogues/human-gut-v2-0)
+
 
 ## Benchmark
 
