@@ -48,12 +48,12 @@ Put daily work records on microbiota into this repository
 
 ## Database
 
-* [Integrated Microbial Genomes and Microbiomes](https://img.jgi.doe.gov/)
+* [Integrated Microbial Genomes and Microbiomes (JGI-IMG/M)](https://img.jgi.doe.gov/)
 * [16S_rRNA_Microbiome_Datasets](https://figshare.com/articles/dataset/16S_rRNA_Microbiome_Datasets/14531724)
 * [Earth Microbiome Project (EMP)](https://earthmicrobiome.org/)
-* [Human Oral Microbiome Database: Human oral environment (HOMD)](https://www.homd.org/)
-* [Integrative Human Microbiome Project: HMP](https://commonfund.nih.gov/hmp/databases)
-* [Unifed Human Gastrointestinal Genome (UHGG) collection: human gut](https://www.ebi.ac.uk/metagenomics/genome-catalogues/human-gut-v2-0)
+* [Human Oral Microbiome Database (HOMD)](https://www.homd.org/)
+* [Integrative Human Microbiome Project (HMP)](https://commonfund.nih.gov/hmp/databases)
+* [Unifed Human Gastrointestinal Genome (UHGG)](https://www.ebi.ac.uk/metagenomics/genome-catalogues/human-gut-v2-0)
 
 
 ## Benchmark
@@ -62,4 +62,4 @@ Put daily work records on microbiota into this repository
 
 ## Pipeline
 
-* Humann2 [Species-level functional profiling of metagenomes and metatranscriptomes](https://www.nature.com/articles/s41592-018-0176-y)
+* Humann2: [Species-level functional profiling of metagenomes and metatranscriptomes](https://www.nature.com/articles/s41592-018-0176-y)
